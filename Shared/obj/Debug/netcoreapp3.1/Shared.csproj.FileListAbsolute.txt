@@ -1,0 +1,12 @@
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Shared\bin\Debug\netcoreapp3.1\Shared.deps.json
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Shared\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Shared\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Shared\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Shared\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Shared\obj\Debug\netcoreapp3.1\Shared.csprojAssemblyReference.cache
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfoInputs.cache
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfo.cs
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.CoreCompileInputs.cache
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.CopyComplete
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Shared\obj\Debug\netcoreapp3.1\Shared.dll
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Shared\obj\Debug\netcoreapp3.1\Shared.pdb

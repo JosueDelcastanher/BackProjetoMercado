@@ -1,0 +1,15 @@
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Infra\bin\Debug\netcoreapp3.1\Infra.deps.json
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Infra\bin\Debug\netcoreapp3.1\Infra.runtimeconfig.json
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Infra\bin\Debug\netcoreapp3.1\Infra.runtimeconfig.dev.json
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Infra\bin\Debug\netcoreapp3.1\Infra.dll
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Infra\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Infra\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Infra\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Infra\obj\Debug\netcoreapp3.1\Infra.csprojAssemblyReference.cache
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CoreCompileInputs.cache
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CopyComplete
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Infra\obj\Debug\netcoreapp3.1\Infra.dll
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Infra\obj\Debug\netcoreapp3.1\Infra.pdb
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\Infra\obj\Debug\netcoreapp3.1\Infra.genruntimeconfig.cache

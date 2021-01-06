@@ -1,0 +1,16 @@
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\BusinessLogicalLayer\bin\Debug\netcoreapp3.1\BusinessLogicalLayer.deps.json
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\BusinessLogicalLayer\bin\Debug\netcoreapp3.1\BusinessLogicalLayer.dll
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\BusinessLogicalLayer\bin\Debug\netcoreapp3.1\BusinessLogicalLayer.pdb
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\BusinessLogicalLayer\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\BusinessLogicalLayer\bin\Debug\netcoreapp3.1\Infra.dll
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\BusinessLogicalLayer\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\BusinessLogicalLayer\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\BusinessLogicalLayer\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\BusinessLogicalLayer\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\BusinessLogicalLayer\obj\Debug\netcoreapp3.1\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\BusinessLogicalLayer\obj\Debug\netcoreapp3.1\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\BusinessLogicalLayer\obj\Debug\netcoreapp3.1\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\BusinessLogicalLayer\obj\Debug\netcoreapp3.1\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\BusinessLogicalLayer\obj\Debug\netcoreapp3.1\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\BusinessLogicalLayer\obj\Debug\netcoreapp3.1\BusinessLogicalLayer.dll
+C:\Users\josue\projeto\CabecaFood-Web\CabecaFood\BusinessLogicalLayer\obj\Debug\netcoreapp3.1\BusinessLogicalLayer.pdb
